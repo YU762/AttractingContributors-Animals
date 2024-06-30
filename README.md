@@ -36,4 +36,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - bird
 - Tiger
 - Dog
+- Dog
 - my cats
